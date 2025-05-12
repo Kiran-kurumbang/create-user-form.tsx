@@ -25,23 +25,21 @@ Clean and minimal layout with responsive design
 
 🧪 How to Run Locally
 bash
-コピーする
-編集する
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 npm install
 npm start
 📁 File Structure
 css
-コピーする
-編集する
 src/
 ├── components/
 │   └── CreateUserForm.tsx
 ├── App.tsx
 ├── index.tsx
 ✅ Submission Info
+ICT Collage AI.Robot 
 Contact Email: kurumbangkiran0@gmail.com
+Tell:-080-8540-3099
 
 Framework: React
 
