@@ -25,7 +25,7 @@ Clean and minimal layout with responsive design
 
 🧪 How to Run Locally
 bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Kiran-kurumbang/create-user-form.tsx.git
 cd YOUR_REPO
 npm install
 npm start
